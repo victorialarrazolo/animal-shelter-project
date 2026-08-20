@@ -1,0 +1,25 @@
+intake_month,intake_month_name,Animal Type,total_count,avg_monthly_intake,kitten_season,season_label
+1,January,Cat,1334,222.0,False,Rest of Year
+2,February,Cat,1236,206.0,False,Rest of Year
+3,March,Cat,1627,271.0,True,Kitten Season (Mar-Jul)
+4,April,Cat,2926,488.0,True,Kitten Season (Mar-Jul)
+5,May,Cat,5131,855.0,True,Kitten Season (Mar-Jul)
+6,June,Cat,4753,792.0,True,Kitten Season (Mar-Jul)
+7,July,Cat,3924,654.0,True,Kitten Season (Mar-Jul)
+8,August,Cat,3483,580.0,False,Rest of Year
+9,September,Cat,3466,578.0,False,Rest of Year
+10,October,Cat,3032,505.0,False,Rest of Year
+11,November,Cat,2326,388.0,False,Rest of Year
+12,December,Cat,1590,265.0,False,Rest of Year
+1,January,Dog,5203,867.0,False,Rest of Year
+2,February,Dog,4542,757.0,False,Rest of Year
+3,March,Dog,5128,855.0,True,Kitten Season (Mar-Jul)
+4,April,Dog,4921,820.0,True,Kitten Season (Mar-Jul)
+5,May,Dog,5655,942.0,True,Kitten Season (Mar-Jul)
+6,June,Dog,5160,860.0,True,Kitten Season (Mar-Jul)
+7,July,Dog,5105,851.0,True,Kitten Season (Mar-Jul)
+8,August,Dog,4882,814.0,False,Rest of Year
+9,September,Dog,4921,820.0,False,Rest of Year
+10,October,Dog,5051,842.0,False,Rest of Year
+11,November,Dog,5357,893.0,False,Rest of Year
+12,December,Dog,4935,822.0,False,Rest of Year
