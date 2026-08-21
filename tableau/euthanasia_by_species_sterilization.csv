@@ -1,0 +1,5 @@
+species,sterilization_status,total_animals,euthanized_count,euthanasia_rate_pct
+Dog,Intact,76111,1600,2.1
+Dog,Sterilized,59019,941,1.59
+Cat,Intact,53588,1566,2.92
+Cat,Sterilized,17555,648,3.69
