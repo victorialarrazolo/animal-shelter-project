@@ -10,7 +10,7 @@ This project is built by Victoria Larrazolo, a data analyst with 5+ years of exp
 - notebooks/01_data_exploration.ipynb - Austin-only analysis (complete)
 - notebooks/02_multi_city_analysis.ipynb - Multi-city comparison (in progress)
 - data/ - Raw CSV files from Austin, Sonoma County CA, and Norfolk VA
-- tableau/ - Cleaned CSV exports for Tableau Public dashboards
+- tableau/ - Cleaned CSV exports for Tableau Public dashboards. [View interactive dashboard on Tableau Public](https://public.tableau.com/views/MultiCityAnimalShelterReport/SeasonalStrayIntakePatternsCatsPeakinSpringDogsStayConsistentYear-Round?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - website/ - GitHub Pages case study site (not yet started)
 
 ## Data Sources
